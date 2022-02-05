@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalhando com front-end.
-- 🌱 Estudando react, typescript ...
+- 🌱 Estudando React/Typescript ...
 - 😄 Pronouns: ela/dela.
 
 
