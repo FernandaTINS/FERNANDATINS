@@ -1,4 +1,4 @@
-### Oii!! Sou a Fernanda! 👋
+### Oii, sou a Fernanda Martins!!! 👋
 
 
 - 🔭 Trabalhando com front-end.
