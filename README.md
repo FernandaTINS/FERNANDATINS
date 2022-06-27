@@ -1,6 +1,6 @@
 ### Oii, sou a Fernanda Martins!!! 👋
 
-
+-	🤓 Uma desenvolvedora iniciante
 - 🔭 Trabalhando com front-end.
 - 🌱 Estudando React/Typescript ...
 - 😄 Pronouns: ela/dela.
